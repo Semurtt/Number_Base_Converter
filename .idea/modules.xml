@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number_Base_Converter2.iml" filepath="$PROJECT_DIR$/.idea/modules/Number_Base_Converter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter2.Number_Base_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter2.Number_Base_Converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter2.Number_Base_Converter-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter2.Number_Base_Converter-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter2.Number_Base_Converter-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter2.Number_Base_Converter-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter2.Topics-BigInteger-Division.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter2.Topics-BigInteger-Division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter2.Topics-BigInteger-Division.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter2.Topics-BigInteger-Division.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter2.Topics-BigInteger-Division.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter2.Topics-BigInteger-Division.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter2.Topics-BigInteger-LCM.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter2.Topics-BigInteger-LCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter2.Topics-BigInteger-LCM.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter2.Topics-BigInteger-LCM.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter2.Topics-BigInteger-LCM.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter2.Topics-BigInteger-LCM.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter2.Topics-BigInteger-Max.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter2.Topics-BigInteger-Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter2.Topics-BigInteger-Max.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter2.Topics-BigInteger-Max.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter2.Topics-BigInteger-Max.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter2.Topics-BigInteger-Max.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter2.Topics-BigInteger-Percentage.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter2.Topics-BigInteger-Percentage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter2.Topics-BigInteger-Percentage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter2.Topics-BigInteger-Percentage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter2.Topics-BigInteger-Percentage.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter2.Topics-BigInteger-Percentage.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter2.Topics-BigInteger-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter2.Topics-BigInteger-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter2.Topics-BigInteger-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter2.Topics-BigInteger-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter2.Topics-BigInteger-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter2.Topics-BigInteger-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter2.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter2.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter2.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter2.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter2.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter2.util.test.iml" />
+    </modules>
+  </component>
+</project>
